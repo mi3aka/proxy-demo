@@ -48,4 +48,16 @@
 
 浏览器连接本地客户端,本地客户端与远程服务器之间的数据传输被加密,无法被监听
 
+---
+
+EDCH握手示例
+
 ![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232217158.png)
+
+客户端向服务器发送握手报文
+
+![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232231183.png)
+
+服务器生成共享密钥并回应握手报文
+
+![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232232811.png)
