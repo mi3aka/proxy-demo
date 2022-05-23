@@ -47,3 +47,5 @@
 ![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205231747614.png)
 
 浏览器连接本地客户端,本地客户端与远程服务器之间的数据传输被加密,无法被监听
+
+![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232217158.png)
