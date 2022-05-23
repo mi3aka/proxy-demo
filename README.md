@@ -61,3 +61,23 @@ EDCH握手示例
 服务器生成共享密钥并回应握手报文
 
 ![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232232811.png)
+
+客户端请求在经过RC4加密(密钥会该次EDCH握手协商得到的共享密钥)后发送到服务器
+
+![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232301001.png)
+
+服务器解密后发送到目标地址
+
+![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232303788.png)
+
+服务器接收目标地址的响应报文
+
+![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232307204.png)
+
+响应报文在经过RC4加密(密钥会该次EDCH握手协商得到的共享密钥)后发送到客户端
+
+![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232309468.png)
+
+客户端正确解密
+
+![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232311586.png)
