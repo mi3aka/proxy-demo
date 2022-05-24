@@ -81,3 +81,17 @@ EDCH握手示例
 客户端正确解密
 
 ![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232311586.png)
+
+---
+
+文件发送测试,客户端加密
+
+![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205241342985.png)
+
+服务器解密并转发
+
+![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205241344673.png)
+
+目的地址正确接收文件
+
+![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205241346918.png)
