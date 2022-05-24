@@ -58,6 +58,13 @@
 
 ---
 
+生成RSA文件
+
+```
+openssl genrsa -out private.key 2048
+openssl rsa -in private.key -pubout -out public.pem
+```
+
 EDCH握手示例
 
 ![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205232217158.png)
