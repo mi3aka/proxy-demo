@@ -1,5 +1,13 @@
 >Demo样例,请勿用于实际环境,不足之处欢迎指点和纠正,感激不尽
 
+## 参考链接
+
+[理解socks5协议的工作过程和协议细节](https://wiyi.org/socks5-protocol-in-deep.html)
+
+[写给开发人员的实用密码学](https://thiscute.world/posts/practical-cryptography-basics-5-key-exchange/)
+
+[粘包拆包问题](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/Netty%20%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90%E4%B8%8E%20RPC%20%E5%AE%9E%E8%B7%B5-%E5%AE%8C/06%20%20%E7%B2%98%E5%8C%85%E6%8B%86%E5%8C%85%E9%97%AE%E9%A2%98%EF%BC%9A%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E7%BD%91%E7%BB%9C%E5%8C%85%EF%BC%9F.md)
+
 ## alpha
 
 ![](https://cdn.jsdelivr.net/gh/AMDyesIntelno/PicGoImg@master/202205231745700.png)
